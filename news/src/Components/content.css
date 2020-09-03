@@ -1,0 +1,29 @@
+.content{
+    width: 50%;
+    margin-left: 50px;
+
+}
+.image{
+    width: 100%; 
+    height: 300px;
+    object-fit: cover;
+}
+.date{
+    font-family: SFD-Medium;
+      font-size: 14px;
+      color: #777;
+      margin-top: 20px;
+  }
+.title{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: SFD-Bold;
+    font-weight: bold;
+    text-decoration : none;
+    line-height: 26px;
+    color: #333;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+}
